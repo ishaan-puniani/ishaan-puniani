@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on iOS engine of FAB Builder
-🌱 I’m currently learning Code Generation and Code Assistant with AI
-💬 Ask me about Tech, AI, FullStack Development, Technical Architecture, Product Optimization, Generative AI
-📫 How to reach me: DM @ www.linkedin.com/in/ishaanpuniani 
+- 🔭 I’m currently working on iOS engine of FAB Builder
+- 🌱 I’m currently learning Code Generation and Code Assistant with AI
+- 💬 Ask me about Tech, AI, FullStack Development, Technical Architecture, Product Optimization, Generative AI
+- 📫 How to reach me: DM @ www.linkedin.com/in/ishaanpuniani 
 
 
 <!--
